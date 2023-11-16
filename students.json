@@ -1,0 +1,21 @@
+
+//{
+//  "name": "Ahmed",
+//  "track" : "Ai"
+//}
+
+[
+
+  {
+  "name": "Ahmed",
+  "track" : "Ai"
+  },
+   {
+  "name": "Ahmed",
+  "track" : "Ai",
+     "courses": {
+       "essesntial": ["c", "c++"]
+     }
+  }
+
+]
