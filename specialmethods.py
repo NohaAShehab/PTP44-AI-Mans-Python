@@ -49,7 +49,7 @@
 
 
 class Employee:
-    __slots__ = ['name', 'email', 'salary']
+    gi = ['name', 'email', 'salary']
     def __init__(self, name, email, salary):
         self.name= name
         self.email= email
